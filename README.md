@@ -28,5 +28,5 @@ Features used:
 - Medium → potential growth segment
 - High-value → retain with premium services
 
-## 🛠️ Tools
+## Tools
 Python, Pandas, Seaborn, Scikit-learn
